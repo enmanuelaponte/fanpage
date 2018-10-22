@@ -17,3 +17,32 @@ a {
     width: 30px;
     margin: 15px;
 }
+
+body{
+    background-color: #FFE100;
+}
+.main{
+    background-color:#CDCDCD;
+}
+.rightPane{
+    background-color:#FF0000;
+}
+
+.navbar {
+ background-color: white;
+ display: flex;
+ justify-content: space-between;
+}
+.social {
+    display: flex;
+    justify-content: space-between;
+}
+title{
+    display: flex;
+    justify-content: center;
+}
+.thumbnail-image {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
