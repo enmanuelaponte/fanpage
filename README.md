@@ -17,26 +17,26 @@ Make sure to check off your items as you complete them. [ ] => [x]
 - [x] Link the a tags in the navbar to the correct .html files on each html page
 - [x] Link the a tags surrounding social media icons to the correct social media accounts on each html page
 - [x] Add text to the element with the class of leftPane to describe who/what your fanpage is about in about.html
-- [xs] Add images to the gallery thumbnails in gallery.html
+- [x] Add images to the gallery thumbnails in gallery.html
 #### CSS
-- [ ] Use CSS to change the background-color and/or font color on the page.
-- [ ] Use CSS to change the background-image of the div with the class of main
-- [ ] Use CSS to change the background-image of the div with the class of rightPane.
+- [X] Use CSS to change the background-color and/or font color on the page.
+- [X] Use CSS to change the background-image of the div with the class of main
+- [X] Use CSS to change the background-image of the div with the class of rightPane.
 
 #### Wrap
-- [ ] Push your changes!
-- [ ] Save and submit your Fanpage website using the link on the Daily Session Document.
+- [X] Push your changes!
+- [X] Save and submit your Fanpage website using the link on the Daily Session Document.
 
 ## Day 2
 #### CSS
-- [ ] Use flexbox to center your heading. 
-- [ ] Use flexbox to format your navbar.
-- [ ] Use flexbox to format your footer.
-- [ ] Use flexbox to format your gallery page. 
-- [ ] Use flexbox to format your about page. 
+- [X ] Use flexbox to center your heading. 
+- [ X] Use flexbox to format your navbar.
+- [ X] Use flexbox to format your footer.
+- [ X] Use flexbox to format your gallery page. 
+- [ X] Use flexbox to format your about page. 
 
 #### Wrap
-- [ ] Push your changes!
+- [X ] Push your changes!
 
 ## Day 3
 #### CSS
