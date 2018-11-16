@@ -91,4 +91,9 @@ title{
 .navbar {
     padding: 10px;
     color: red;
+    border: 5px solid black;
+}
+.color{
+    width:600px;
+    height:600px;
 }
